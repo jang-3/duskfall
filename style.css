@@ -1,0 +1,130 @@
+
+body{margin-bottom: 500px;
+    background-image: linear-gradient(to top, black 0%, #121212 100%);
+}
+
+.top-box{
+    position: absolute;
+    padding: 60px 1500px 50px 0px;
+    margin: -265px -10px -10px -10px;
+    background-color: black;
+    z-index: -1;
+}
+.titles{ margin: 375px 0px 0px 100px;
+    color: white;
+    letter-spacing: -5px;
+    font-size: 150pt;
+    font-family: 'Bebas Neue', sans-serif;
+    z-index: 10;
+}
+#header-right{
+    margin: 30px 10px 130px 100px;
+    z-index: 10;
+}
+#header-left{
+    margin: -100px 100px 150px 1240px;
+    padding-bottom: 20px;
+}
+#contents-title{
+    margin: -100px 0px -40px 1315px;
+}
+
+.space-top{
+    padding: 0px;
+    color: white;
+    letter-spacing: 0px;
+    font-size: 15pt;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#position-right{
+    margin: 50px 0px 00px 1290px;
+    color: #989898;
+}
+
+.space-font{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13pt;
+    line-height: 1.6;
+    text-decoration: none;
+    list-style-type: none;
+}
+#top-line{
+    margin: -143px 80px 80px 291px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #989898;
+}
+
+a:visited {
+    color: #4d4d4d;
+}
+
+a:hover {
+    color: white;
+}
+
+.main-p{
+    margin: 15px 40px 0px 150px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13pt;
+    color: #989898;
+    line-height: 1.6;
+    width: 700px;
+    float: left;
+}
+
+.image-sub-p{
+    margin: 10px 0px 0px 1050px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13pt;
+    color: #989898;
+    line-height: 1.6;
+    text-align: center;
+
+}
+
+#par-title{
+    margin: -500px 40px 30px 170px;
+}
+
+.mohave-font{
+    font-family: 'Mohave', sans-serif;
+    font-size: 14pt;
+    color: white;  
+    letter-spacing: -0.5px;  
+}
+
+#html-logo{
+    margin: 0px 0px 0px 1150px;
+    padding: 20px;
+    z-index: 0;
+    width: 200px;
+    height: auto;
+    background-color: white;
+    border-radius: 10;
+}
+
+.bottom-box{
+    margin: -5px 0px 0px 1150px;
+    width: 240px;
+    height: 15px;
+    background-color: #6cffdb;
+}
+
+.highlight-box{
+    margin: -53px 0px 0px 150px;
+    width: 10px;
+    height: 15px;
+    background-color: #6cffdb;
+}
+
+.divider{
+    margin: 100px 200px 100px 0px;
+}
+
+.divider2{
+    margin: 500px 200px 100px 0px;
+}
