@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Web Dev Blog </title>
+        <link rel="stylesheet"
+        href="style.css" type="text/css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mohave:wght@500&family=Roboto:wght@300&family=Space+Grotesk:wght@300&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <section>
+            <header>
+                <h2 id="header-right" class="space-top"> WEB DEV BLOG</h2>
+                <hr id="top-line" color="#4b4b4b" size="1" width="61%">
+                <h2 id="header-left" class="space-top"> JOSEPH ANG</h2>
+                <nav>
+                    <h4 id="contents-title" class="mohave-font">CONTENTS</h4>
+                    <ul id="position-right" class="space-font">
+                        <li><a href="#">Week 1</a></li>
+                        <li><a href="#">Week 2</a></li>
+                        <li><a href="#">Week 3</a></li>
+                    </ul>
+                </nav>
+                <div class="top-box"> </div>
+                <h3 class="titles">Week 1</h3>
+                <h4 id="par-title" class="mohave-font">INTRO TO FRONT END DEVELOPMENT</h4>
+            </header>
+            <div class="highlight-box"> </div>
+            <p class="main-p"> Today, I learnt the basics of HTML and how to create different kinds of sectioning. I have not yet learnt CSS, although I want to learn it soon. HTML seems fun so far even if a bit challenging because it is quite different from Python. Part of the basics we learnt today include how to create titles, headings, and paragraphs, as well as how to create tables. </p>
+        </section>
+        <img id="html-logo" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+        <div class="bottom-box"> </div>
+        <p class="image-sub-p">An image of the HTML logo.</p>
+        <section>
+            <hr class="divider" color="#4b4b4b" size="1" width="87%">
+            <h3 class="titles">Week 2</h3>
+            <h4 id="par-title" class="mohave-font">SEMANTIC HTML - CSS 101</h4>
+            <div class="highlight-box"> </div>
+            <p class="main-p"> This week, I learnt how to pair HTML and CSS together to create aesthetic website organisation. CSS makes HTML look better by giving HTML as the website skeleton "skin". CSS is also not very difficult personally, and I enjoy doing it. </p>
+        </section>
+        <section>
+            <hr class="divider2" color="#4b4b4b" size="1" width="87%">
+            <h3 class="titles">Week 3</h3>
+            <h4 id="par-title" class="mohave-font">MORE CSS</h4>
+            <div class="highlight-box"> </div>
+            <p class="main-p"> This week we dove more into CSS formatting, most notably nested elements, positioning, flex-boxes, and z-index. In class, we played two games, the first revolving around learning nested elements, and the second one being a frog game teaching flex-boxes. I find flex-boxes will be especially useful in the future, despite being challenging to learn. I find flex-boxes will be especially useful in the future. </p>
+        </section>
+    </body>
+</html>
