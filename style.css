@@ -128,3 +128,9 @@ a:hover {
 .divider2{
     margin: 500px 200px 100px 0px;
 }
+
+.javascript-proof{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

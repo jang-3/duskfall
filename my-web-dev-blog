@@ -53,5 +53,18 @@
             <div class="highlight-box"> </div>
             <p class="main-p"> we learned how to make images flexible and resize according to screen layouts. We dove in a little more into flex-layout, and finally put our github page together even though my computer turned off during class and I did not bring my charger. We are now able to use github from visual studio code though.</p>
         </section>
+        <section>
+            <hr class="divider2" color="#4b4b4b" size="1" width="87%">
+            <h3 class="titles">Week 5</h3>
+            <h4 id="par-title" class="mohave-font">LEARNING JAVASCRIPT</h4>
+            <div class="highlight-box"> </div>
+            <p class="main-p"> we learned how to make images flexible and resize according to screen layouts. We dove in a little more into flex-layout, and finally put our github page together even though my computer turned off during class and I did not bring my charger. We are now able to use github from visual studio code though.</p>
+            <div class ="javascript-proof"></div>
+                <img id="proof-images" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+                <img id="proof-images" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+                <img id="proof-images" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+                <img id="proof-images" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+                <img id="proof-images" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" title="HTML Logo" alt="HTML Logo"><br />
+        </section>
     </body>
 </html>
