@@ -130,7 +130,28 @@ a:hover {
 }
 
 .javascript-proof{
+    padding: -10px 0px;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: flex-start;
+}
+
+#proof-images{
+    padding: 1%;
+    flex-grow: 1;
+    flex-basis: 7%;
+    max-width: 15%;
+    max-height: auto;
+    width: auto;
+    margin: 10px;
+    border-radius: 25px;
+    object-fit: scale-down;
+}
+
+.spacing{
+    display: block;
+    width: auto;
+    height: 500px;
 }
